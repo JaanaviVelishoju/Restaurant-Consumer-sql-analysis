@@ -66,7 +66,7 @@ The dataset contains information about consumers, restaurants, cuisine preferenc
 - Create stored procedures for restaurant-rating and consumer-segment analysis.
 
 ## Query: San Luis Potosi consumers who rated Mexican restaurants with rating 2
-![San Luis Potosi consumers who rated Mexican restaurants with rating 2](screenshots/10_ratedMAxicanRestaurants.png)
+![San Luis Potosi consumers who rated Mexican restaurants with rating 2](screenshots/10_ratedMaexicanRestaurants.png)
 
 ## Query: Rank ratings within each Cuernavaca restaurant
 
