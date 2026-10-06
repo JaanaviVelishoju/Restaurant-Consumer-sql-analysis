@@ -66,18 +66,22 @@ The dataset contains information about consumers, restaurants, cuisine preferenc
 - Create stored procedures for restaurant-rating and consumer-segment analysis.
 
 ## Query: San Luis Potosi consumers who rated Mexican restaurants with rating 2
+![Restaurant rating rank output](screenshots/05_window_function_rank.png)
 
-<img width="841" height="446" alt="image" src="https://github.com/user-attachments/assets/b3b185be-7270-40f1-af03-9f7b670b2000" />
 ## Query: Rank ratings within each Cuernavaca restaurant
 
 ![Restaurant rating rank output](screenshots/05_window_function_rank.png)
 
 ## Query: Top 3 preferred cuisines for low-budget students
-<img width="1225" height="105" alt="image" src="https://github.com/user-attachments/assets/fc915ad6-da7c-4daa-be03-ac7237026d50" />
+![Top 3 preferred cuisines for low-budget students](screenshots/04_cte_query_result.png)
+
 ## View: HighlyRatedMexicanRestaurants
+
 ![Highly rated Mexican restaurants](screenshots/06_highly_rated_mexican_view.png)
-Stored Procedure: GetRestaurantRatingsAboveThreshold
-<img width="778" height="66" alt="image" src="https://github.com/user-attachments/assets/c027816c-4442-431c-b086-59d95979f6da" />
+
+## Stored Procedure: GetRestaurantRatingsAboveThreshold
+![Restaurant Ratings Above Threshold](screenshots/07_stored_procedure_output.png)
+
 
 ## Key Insights
 
